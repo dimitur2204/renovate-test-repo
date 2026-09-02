@@ -1,0 +1,10 @@
+{
+  "name": "renovate-test-repo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal sandbox repo to test the Renovate GitHub App for vulnerability-only remediation before rolling it out org-wide.",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "0.21.1"
+  }
+}

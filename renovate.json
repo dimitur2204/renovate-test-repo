@@ -1,0 +1,15 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "enabled": false,
+  "labels": ["security"],
+  "baseBranchPatterns": ["main"],
+  "prConcurrentLimit": 5,
+  "prHourlyLimit": 0,
+  "rebaseWhen": "conflicted",
+  "vulnerabilityAlerts": {
+    "enabled": true,
+    "prPriority": 10,
+    "minimumReleaseAge": "0 days"
+  },
+  "osvVulnerabilityAlerts": true
+}
