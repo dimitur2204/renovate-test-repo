@@ -1,8 +1,7 @@
 # renovate-test-repo
 
 Minimal sandbox to test the **official Renovate GitHub App** (Mend-hosted),
-as a comparison against the self-hosted GitHub Actions setup used in
-[flow-ui-react](https://github.com/UNIwise/flow-ui-react/pull/776).
+as a comparison against the self-hosted GitHub Actions setup.
 
 ## Why this repo exists
 
