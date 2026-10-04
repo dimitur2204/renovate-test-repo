@@ -5,7 +5,7 @@
   "description": "Minimal sandbox repo to test the Renovate GitHub App for vulnerability-only remediation before rolling it out org-wide.",
   "license": "UNLICENSED",
   "dependencies": {
-    "axios": "0.33.0",
+    "axios": "0.34.0",
     "execa": "5.1.1"
   }
 }
